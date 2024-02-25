@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(79, 84, 88) ;
+    font-size: 20px;
+}
+h1{
+    color: white;
+    background-color: rgb(6, 2, 26);
+}
+/* menu principal*/
+.menu a{
+    background-color:black;
+    display: inline-flex;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 0 15px;
+
+}
+.memu a:hover{
+    background-color: white;
+    color: black;
+}
